@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.16.2",
+    "nodemon": "^3.1.11"
+  },
+  "name": "database_shopleft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emihled/database_shopleft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/emihled/database_shopleft/issues"
+  },
+  "homepage": "https://github.com/emihled/database_shopleft#readme"
+}
